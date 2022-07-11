@@ -1,0 +1,1 @@
+{"batch_size": 4, "epoch": 300, "lr": 0.002, "weight_decay": 0.0002, "params": {"n_channels": 3, "n_out": 3, "bn_momentum": 0.1}, "bn_momentum": 0.3}
